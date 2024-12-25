@@ -1,4 +1,4 @@
-baseURL: https://main.eth/
+baseURL: "https://satisheshwarblog.netlify.app/"
 languageCode: en-us
 title: Satish Eshwar
 theme: ["PaperMod"]
