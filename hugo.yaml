@@ -22,7 +22,7 @@ params:
     imageTitle: "Satish Eshwar"
     buttons:
       - name: Blog
-        url: blog
+        url: articles
       - name: About
         url: about
   
