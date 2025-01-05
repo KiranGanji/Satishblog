@@ -7,7 +7,7 @@ categories: ["Interests", "Curiosity"]
 
 ### BadProbability.com
 
-I loved this name, and I might put a lot of my creative works into this domain. But the domain itself is where I explore the unpredictable nature of life and decision-making. The concept centers around the role of probability in our everyday choices, actions, and beliefs, highlighting both favorable and unfavorable outcomes. The name [BadProbability.com](http://BadProbability.com) was chosen intentionally to focus on the often-overlooked, less glamorous side of probability—the "bad" outcomes that shape our experiences and how life's uncertainties and setbacks play a significant role in our personal growth and adaptation.
+I love this name, and I might put a lot of my creative works into this domain. But the domain itself is where I explore the unpredictable nature of life and decision-making. The concept centers around the role of probability in our everyday choices, actions, and beliefs, highlighting both favorable and unfavorable outcomes. The name [BadProbability.com](http://BadProbability.com) was chosen intentionally to focus on the often-overlooked, less glamorous side of probability—the "bad" outcomes that shape our experiences and how life's uncertainties and setbacks play a significant role in our personal growth and adaptation.
 
 ---
 
