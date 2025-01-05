@@ -1,4 +1,4 @@
-baseURL: "https://satisheshwarblog.netlify.app/"
+baseURL: "https://satisheshwar.netlify.app/"
 languageCode: en-us
 title: Satish Eshwar
 theme: ["PaperMod"]
@@ -28,9 +28,9 @@ params:
   
   ShowShareButtons: true
   socialIcons:
-    - name: "x"
-      url: "https://x.com/bad_probability"
-      icon: "twitter"
+    #- name: "x"
+    #  url: "https://x.com/bad_probability"
+    #  icon: "twitter"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/satisheshwar/"
       icon: "linkedin"
