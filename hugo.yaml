@@ -64,7 +64,11 @@ menu:
       weight: 20
     - identifier: blog
       name: Blog
-      url: /blog/
+      url: /articles/
+      weight: 20 
+    - identifier: interests
+      name: Interests
+      url: /interests/
       weight: 20 
     - identifier: Search
       name: Search
