@@ -50,9 +50,9 @@ params:
   ShowReadingTime: true
   author: "| Author: Satish Eshwar"
   DateFormat: "Date: January 2, 2006"
-  analytics:
-    google:
-      id: "G-HTZMWV26BV"
+  # analytics:
+  #   google:
+  #     id: "G-HTZMWV26BV"
 
 menu:
   main:
