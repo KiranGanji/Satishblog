@@ -2,11 +2,11 @@
 title: "Breaking into Cybersecurity: My Journey of Learning and Resilience"
 date: 2024-12-24T00:00:00Z
 tags: ["cybersecurity", "career", "resilience", "learning"]
-categories: ["Personal"]
+categories: ["CyberSecurity"]
 ---
 
 ### Tagline  
-*You can only connect the dots in hindsight… Take every opportunity to learn, even if you don’t know what’s best at the time… Give it your best shot, absorb the learnings, and move forward.*
+*You can only connect the dots in hindsight Take every opportunity to learn, even if you don’t know what’s best at the time… Give it your best shot, absorb the learnings, and move forward.*
 
 ---
 
