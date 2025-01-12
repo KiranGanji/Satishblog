@@ -5,7 +5,7 @@ tags: ["About Me"]
 categories: ["Personal"]
 ---
 
-**Hey there!** 👋 I'm **Satish Eshwar**. Thank you for visiting my website. 
+**Hey There!** 👋 I'm **Satish Eshwar**. Thank you for visiting my website. 
 
 **Pakka Bengaluru Huduga** (🙋‍♂️)... settled in this beautiful city (with its fair share of traffic, of course). 😉
 
