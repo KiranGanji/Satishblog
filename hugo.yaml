@@ -10,6 +10,7 @@ buildExpired: false
 
 params:
   profileMode:
+    googleAnalytics: = "G-HTZMWV26BV"
     enabled: true # needs to be explicitly set
     title: "Welcome!"
     subtitle: "Hey there! 👋 I am a seasoned **cybersecurity and technology evangelist** with extensive expertise 
@@ -50,7 +51,6 @@ params:
   ShowReadingTime: true
   author: "| Author: Satish Eshwar"
   DateFormat: "Date: January 2, 2006"
-  googleAnalytics: = "G-HTZMWV26BV"
 
 menu:
   main:
